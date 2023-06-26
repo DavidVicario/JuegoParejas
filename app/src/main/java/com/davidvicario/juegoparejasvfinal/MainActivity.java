@@ -147,9 +147,7 @@ public class MainActivity extends AppCompatActivity {
                         }
 
                         imagenAnteriorDestapada = posicionFichas[posEnArray];
-
                         posicionAnteriorDestapada = posEnArray;
-
                         imagenViewAnteriorDestapada = (ImageView) viewMiCarta;
                     }
                     else {
